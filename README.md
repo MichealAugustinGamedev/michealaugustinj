@@ -51,6 +51,8 @@
 
 
 </div>
+<td valign="top" style="padding-left:20px;">
+  
 <div align="center">
 
        | Project Name      | Description | 
@@ -59,3 +61,4 @@
   | [Flappy Bird](https://github.com/MichealAugustinGamedev/flappy-bird) | My take on the classic "Flappy Bird". Guide the character through endless pipes with single tap. Features responsive controls, real-time scoring, and smooth gameplay. |
 
  </div>
+ </td>
