@@ -51,3 +51,11 @@
 
 
 </div>
+<div align="center">
+
+       | Project Name      | Description | 
+  | :---:             | :--- |  
+  | [Mario_Clone](https://github.com/MichealAugustinGamedev/Mario_Clone) | Controls: Move: Left/Right, Crouch: Down, Jump: Z, Dash: Hold X while moving/jumping, Fire: X, Pause/Unpause: Enter/Return |
+  | [Flappy Bird](https://github.com/MichealAugustinGamedev/flappy-bird) | My take on the classic "Flappy Bird". Guide the character through endless pipes with single tap. Features responsive controls, real-time scoring, and smooth gameplay. |
+
+ </div>
